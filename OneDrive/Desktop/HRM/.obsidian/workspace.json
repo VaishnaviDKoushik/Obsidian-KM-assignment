@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "51a602cfd2f8b46c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2992915a0aceb4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeb7e258a1f7d835",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a34ac3f47f9db3da",
+    "type": "split",
+    "children": [
+      {
+        "id": "81ee0b07da1e3426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb23fc339ac698a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2045dc2c48610523",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Topic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef8c6aa4d9d43fa5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "062a9735833a14b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fe595e782807eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e47e69b1d57e3bd3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dc9fd73ca0d647b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UNIT 01.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c0fd2fc1fb0ffa7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d7993c2ac103d845",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d389efb3b9c67da3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UNIT 01.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0fb23fc339ac698a",
+  "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.canvas",
+    "UNIT 05/Notes 5/Exam prep questions 5.md",
+    "2026-10-15.md",
+    "Untitled 3.base",
+    "UNIT 03/Notes 3/Exam prep  unit 3 important questions.md",
+    "Untitled 1.canvas",
+    "Untitled 2.base",
+    "Untitled.base",
+    "UNIT 02/Notes 2/unit 02 exam prep questions.md",
+    "file:C:/Users/Vaishnavi D Koushik/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/E656ADA4CEA68106DB0DB673E1E3A5B30E32D182/transfers/2026-42/UNIT 2 IMPORTANT QUESTIONS.md",
+    "UNIT 1/Notes 1/Exam prep Questions-Unit 1.md",
+    "UNIT 1/Notes 1/1.11  Difference Between Purpose and Need of HRM.md",
+    "UNIT 1/Notes 1/1 cotents.md",
+    "UNIT 04/unit 04 exam prep questions.md",
+    "file:C:/Users/Vaishnavi D Koushik/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/E656ADA4CEA68106DB0DB673E1E3A5B30E32D182/transfers/2026-42/UNIT 4 IMPORTANT QUESTIONS.md",
+    "UNIT 04/4.14 Quick revision.md",
+    "UNIT 02/Notes 2/2.12 Job Evaluation.md",
+    "UNIT 05/Notes 5/Objectives of Induction.md",
+    "UNIT 04/4.12 Meaning of Employee Attrition.md",
+    "UNIT 04/4.14  Role of HR in Motivation and Leadership.md",
+    "UNIT 04/4.13 Difference Between Motivation and Leadership.md",
+    "file:C:/Users/Vaishnavi D Koushik/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/E656ADA4CEA68106DB0DB673E1E3A5B30E32D182/transfers/2026-42/UNIT 1 IMPORTANT QUESTIONS.md",
+    "UNIT 1/Notes 1/1.13  Functions of Human Resource Management (HRM).md",
+    "Previous year question papers",
+    "UNIT 05/Notes 5/5 contents.md",
+    "UNIT 1/Notes 1/1.1 Introduction to Human Resource Management..md",
+    "1.2 Definition of HRM.md",
+    "UNIT 1/Notes 1/1.2 Importance of HRM.md",
+    "UNIT 05/Notes 5/5.1  INDUSTRIAL RELATIONS AND LABOUR RELATIONS.md",
+    "file:C:/Users/Vaishnavi D Koushik/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/E656ADA4CEA68106DB0DB673E1E3A5B30E32D182/transfers/2026-41/UNIT 5.md",
+    "UNIT 05/Notes 5/5.2 Industrial Relations and Labour Relations.md",
+    "UNIT 05/Notes 5",
+    "UNIT 05",
+    "UNIT 04/Notes 4",
+    "UNIT 04",
+    "UNIT 03/Notes 3"
+  ]
+}
